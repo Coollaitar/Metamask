@@ -2,11 +2,11 @@
 ## Ether JS code to connect Metamask wallet and interact with Smart Contract
 
 ### ✅ Steps : 
-- [x]  Import Ether and React Libraries and Hooks
-2.  Create App Function 
-3.  Request for window.ethereum with method:'eth_requestAccounts'
-4.  Create Provider
-5.  Create Signer
-6.  Store your Contract Address
-7.  Store your ABI
-8.  Create Contract using cAddress, ABI and Signer
+- [x] Import Ether and React Libraries and Hooks
+- [x] Create App Function 
+- [x] Request for window.ethereum with method:'eth_requestAccounts'
+- [x] Create Provider
+- [x] Create Signer
+- [x] Store your Contract Address
+- [x] Store your ABI
+- [x] Create Contract using cAddress, ABI and Signer
